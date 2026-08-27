@@ -2,7 +2,7 @@
 
 **Системный аналитик | Аналитик бизнес-процессов**
 
-📍 Нижний Новгород · 🌐 [cherkasovaanna.ru](https://cherkasovaanna.ru) · ✈️ [Telegram](https://t.me/annac8)
+📍 Нижний Новгород · 🌐 [cherkasovaanna.ru](https://cherkasovaanna.ru) · ✈️ [Telegram](https://t.me/annac1119)
 
 ---
 
