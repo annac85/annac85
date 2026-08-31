@@ -22,7 +22,7 @@
 - **Анализ и проектирование:** BPMN 2.0, UML, AS-IS / TO-BE, User Flow, REST API, JSON/XML, SRS / ТЗ
 - **Языки и фреймворки:** Python (Pandas, NumPy), Flask, PyQt6, SQL (PostgreSQL)
 - **Инструменты:** YouTrack, Confluence, 1С (ЭДО, ERP, ЗУП), Git, Excel (продвинутый уровень: макросы, сводные таблицы)
-- **AI и интеграции:** интеграция LLM-моделей (GigaChat API)
+- **AI и интеграции:** интеграция LLM-моделей
 
 ---
 
